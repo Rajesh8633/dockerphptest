@@ -12,7 +12,7 @@
     //     die("Connection failed: " . $conn->connect_error);
     // }
 
-    echo "MySQL Connected Successfully!";
+    echo "MySQL ewfgrthyujygtrfedsw Connected Successfully! rajesh";
    
 ?>
 
